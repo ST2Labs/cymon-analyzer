@@ -11,7 +11,7 @@ __Vesion__: 0.1
 ## Abstracts
 
   Cymon-Analyzer is a [Cortex Analyzers](https://github.com/CERT-BDF/Cortex-Analyzers) to obtain information about "Threats" checking cymon.io services.
-  This **analyzer** help to Security Analyst what are investigate a Security Incident Case in theHive-project.org who could obtain información about observables in 1-click. 
+  This **analyzer** help to Security Analyst what are investigate a Security Incident Case in [theHive-project.org](http://thehive-project.org/) who could obtain información about observables in 1-click. 
   
 
 __Depedencies__:
