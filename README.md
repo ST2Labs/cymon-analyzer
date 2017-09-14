@@ -1,5 +1,6 @@
 # Cymon - Cortex Analyzers
-## cortex-analyzer to search information into cymon.io "Open Threat Intelligence" and obtain IP reputation info.
+
+> cortex-analyzer to search information into cymon.io "Open Threat Intelligence" and obtain IP reputation info.
 
 [[@SVTCloud]] [[SSIC - SVT Security Intelligence & Operations Center Team]] [[@st2labs]]
 
