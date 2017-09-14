@@ -1,0 +1,10 @@
+<span ng-if="content.Malware" class="label label-danger">Cymon:Malware: {{content.stats.total_malware}} </span>
+<span ng-if="content.Botnet" class="label label-danger">Cymon:Botnet: {{content.stats.total_botnet}} </span>
+<span ng-if="content.MaliciousActivity" class="label label-danger">Cymon:Malicious: {{content.stats.total_malicious}} </span>
+<span ng-if="content.Blacklist" class="label label-warning">Cymon:Blacklist: {{content.stats.total_blacklist}} </span>
+<span ng-if="content.Dns_blacklist" class="label label-warning">Cymon:DNSBL: {{content.stats.total_dnsbl}} </span>
+<span ng-if="content.Spam" class="label label-primary">Cymon:SPAM: {{content.stats.total_spam}} </span>
+<span ng-if="content.Phishing" class="label label-primary">Cymon:Phishing: {{content.stats.total_phishing}} </span>
+<span ng-if="content.count == 0" class="label label-info">Cymon: Clear</span>
+<span ng-if="content.count > 0" class="label label-primary">Cymon: {{content.count}} record(s)</span>
+<span ng-if="content.count > 0" class="label label-default"><a href={{content.Source_link}} style="color:white";>Cymon.io/{{artifact.data}}</a></span>
