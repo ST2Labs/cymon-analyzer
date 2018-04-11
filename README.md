@@ -2,9 +2,9 @@
 
 > cortex-analyzer to search information into cymon.io "Open Threat Intelligence" and obtain IP reputation info.
 
-[[@SVTCloud]] [[SSIC - SVT Security Intelligence & Operations Center Team]] [[@st2labs]]
+[[@st2labs]]
 
-__Author__: Julian J. Gonzalez Caracuel - Twitter: @rhodius | @seguriadxato2 | @st2labs | @svtcloud
+__Author__: Julian J. Gonzalez Caracuel - Twitter: @rhodius | @seguridadxato2 | @st2labs
 __Vesion__: 0.1
 
 
